@@ -3,4 +3,5 @@ ipdb==0.8
 ipython==2.3.0
 oauthlib==0.6.3
 requests==2.4.1
+twitter-text-python==1.0.3
 wsgiref==0.1.2
